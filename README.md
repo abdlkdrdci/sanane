@@ -1,1 +1,2 @@
 # sanane
+print("hello world")
